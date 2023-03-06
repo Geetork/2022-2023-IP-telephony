@@ -1,6 +1,6 @@
 University: [ITMO University](https://itmo.ru/ru/) <br/>
 Faculty: [FICT](https://fict.itmo.ru) <br/>
-Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming) <br/>
+Course: IP-telephony <br/>
 Year: 2022/2023 <br/>
 Group: K34202 <br/>
 Author: Li Galina <br/>
