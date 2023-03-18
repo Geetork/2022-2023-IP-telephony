@@ -24,7 +24,7 @@ Date of finished: 20.03.2023 <br/>
 <img src="https://user-images.githubusercontent.com/58363643/226111767-13fcd8f0-4ae9-45b7-9f0d-ce620fa445f0.png" width="400">
 
   В конфигурационном режиме изменено название маршрутизатора на CMERouter.<br/>
-  Отключty синтаксис ввода слов от DNS серверов с помощью команды:
+  Отключен синтаксис ввода слов от DNS серверов с помощью команды:
   
     no ip domain-lookup 
     
@@ -54,6 +54,7 @@ Date of finished: 20.03.2023 <br/>
 Созданы VLAN порты на коммутаторе для взаимодействия коммутатора с маршрутизатором и подключены IP телефоны.
 
 <img src="https://user-images.githubusercontent.com/58363643/226112168-19b2d981-4f2b-4a2a-8872-066dd844beb0.png" width="500">
+
 ![image](https://user-images.githubusercontent.com/58363643/226112832-49a38080-74d2-4382-9445-3e813b6b65f8.png)
 
 Задан маршрут по умолчанию командой 
